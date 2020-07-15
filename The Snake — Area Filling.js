@@ -18,3 +18,6 @@ snakefill(24) ➞ 9
 
 */
 
+const snakefill = x => ~~Math.log2(x*x);
+
+
