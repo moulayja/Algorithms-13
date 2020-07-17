@@ -1,2 +1,3 @@
 # Algorithms-13
-Solving a Serie of Algorithms weekly
+Solving a challenging serie of Algorithms weekly
+
